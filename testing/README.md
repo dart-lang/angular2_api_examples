@@ -12,10 +12,11 @@ In Chrome or Dartium, open up `http://localhost:8080`
 
 You'll see the Angular Dart github issues displayed in a table like you see above.
 
-To run the automated tests, open up:
+To run the automated tests, you have to use Dartium (JS browsers are unsupported
+at the moment) and open up:
 
-1. `http://localhost:8081/issue_body_test.dart`
-2. `http://localhost:8081/issue_list_test.dart`
+1. `http://localhost:8081/issue_body_test.html`
+2. `http://localhost:8081/issue_list_test.html`
 
 The first test is a simple "do we parse the markdown", test.
 
