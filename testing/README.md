@@ -20,8 +20,8 @@ You'll see the Angular Dart github issues displayed in a table like you see abov
 
 To see the automated tests running, open up:
 
-1. `http://localhost:8081/issue_body_test.dart`
-2. `http://localhost:8081/issue_list_test.dart`
+1. `http://localhost:8081/issue_body_debug.html`
+2. `http://localhost:8081/issue_list_debug.html`
 
 The first test is a simple "do we parse the markdown", test.
 
